@@ -1,2 +1,2 @@
-# CheckPoint-ES---2SIPF
-CheckPoint da matéria Engenharia de Software 
+# CheckPoint-ES--2SIPF
+CheckPoint da matéria Engenharia de Software do professor Parducci
